@@ -7,8 +7,8 @@ const UserProfile = () => {
   // Mock user data
   const userData = {
     propertySize: "120 m²",
-    householdSize: 4,
-    location: "Berlin, Germany",
+    householdSize: 3 bedroom appartment,
+    location: "Nicosia, Strovolos",
     baselineConsumption: "310 kWh/month",
     tariffPlan: "Green Energy Pro",
     peakHours: "17:00 - 21:00",
