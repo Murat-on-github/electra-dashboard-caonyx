@@ -7,7 +7,7 @@ const UserProfile = () => {
   // Mock user data
   const userData = {
     propertySize: "120 m²",
-    householdSize: 3 bedroom appartment,
+    householdSize: "3 bedroom apartment", // Fixed syntax and spelling
     location: "Nicosia, Strovolos",
     baselineConsumption: "310 kWh/month",
     tariffPlan: "Green Energy Pro",
